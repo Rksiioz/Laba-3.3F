@@ -1,0 +1,3 @@
+C:/C++/Student 2/Laba 3.3F/cmake-build-debug/CMakeFiles/Laba_3_3F.dir
+C:/C++/Student 2/Laba 3.3F/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/C++/Student 2/Laba 3.3F/cmake-build-debug/CMakeFiles/rebuild_cache.dir
